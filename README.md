@@ -19,6 +19,7 @@ List of the Hardware needed
 --- Motor ---
 - 1 stepper motor NEMA 23 (need to calculate the torque needed to choose the motor)
 - 1 motor driver (homemade or not?)
+
 ![button_image](https://github.com/yooonie/router_table/blob/master/button_function.png)
 
 |id |	Button |	function|	menu function	|
