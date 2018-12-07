@@ -32,4 +32,4 @@ This is the router table lifter project.
 |2	|Lock|	Lock up or down (push again up or down to stop)|select / set|led button, to indicate when lock is enabled|
 |3	|Down|	move lift down	|move down||
 |4|	Speed	|set the number of rotation or speed (one brief push), tare the up and down (push and maintain 2sec or more)||
-|5	|Set	| -  to choose between manual or mm setting (one brief push), to enter menu on screen (push and maintain 2sec or more)|exit	||
+|5	|Set	|  to choose between manual or mm setting (one brief push), to enter menu on screen (push and maintain 2sec or more)|exit	||
