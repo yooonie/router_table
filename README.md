@@ -15,3 +15,7 @@ List of the Hardware needed
 - (optional) led support (like https://www.ebay.fr/itm/50-pcs-5MM-Chrome-Metal-Silver-Bezel-LED-Holder-Panel-Display-Mount-Base-Rubber-/253065839214?hash=item3aebe6426e)
 - 5 Buttons (like https://www.ebay.fr/sch/sis.html?_id=302039146961&_nkw=5%2F+10Pcs+16mm+Waterproof+Momentary+Action+Metal+Push+Button+Switch+for+Auto+Car&rt=nc&LH_BIN=1 , Mounting Cut Hole: 16mm, Head Diameter: 18mm)
 - 
+
+--- Motor ---
+- 1 stepper motor NEMA 23 (need to calculate the torque needed to choose the motor)
+- 1 motor driver (homemade or not?)
