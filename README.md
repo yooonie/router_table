@@ -26,10 +26,10 @@ This is the router table lifter project.
 
 ![button_image](https://github.com/yooonie/router_table/blob/master/button_function.png)
 
-|id |	Button |	function|	menu function	|
-|----|---------|----------|--------------|
-|1	|Up|	move lift up|	move up	|
-|2	|Lock|	Lock up or down (push again up or down to stop)|select / set|
-|3	|Down|	move lift down	|move down|
-|4|	Speed	|set the number of rotation or speed (one brief push), tare the up and down (push and maintain 2sec or more)|
-|5	|Set	| -  to choose between manual or mm setting (one brief push), to enter menu on screen (push and maintain 2sec or more)|exit	|
+|id |	Button |	function|	menu function	|commentary|
+|----|---------|----------|--------------|------------|
+|1	|Up|	move lift up|	move up	||
+|2	|Lock|	Lock up or down (push again up or down to stop)|select / set|led button, to indicate when lock is enabled|
+|3	|Down|	move lift down	|move down||
+|4|	Speed	|set the number of rotation or speed (one brief push), tare the up and down (push and maintain 2sec or more)||
+|5	|Set	| -  to choose between manual or mm setting (one brief push), to enter menu on screen (push and maintain 2sec or more)|exit	||
