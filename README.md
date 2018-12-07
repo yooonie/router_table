@@ -19,3 +19,11 @@ List of the Hardware needed
 --- Motor ---
 - 1 stepper motor NEMA 23 (need to calculate the torque needed to choose the motor)
 - 1 motor driver (homemade or not?)
+
+|id |	Button |	function|	menu function	|
+|----|---------|----------|--------------|
+|1	|Up|	move lift up|	move up	|
+|2	|Lock|	Lock up or down (push again up or down to stop)|select / set|
+|3	|Down|	move lift down	|move down|
+|4|	Speed	|set the number of rotation or speed (one brief push), tare the up and down (push and maintain 2sec or more)|
+|5	|Set	| -  to choose between manual or mm setting (one brief push), to enter menu on screen (push and maintain 2sec or more)|exit	|
